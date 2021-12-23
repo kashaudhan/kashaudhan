@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kashaudhan
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Full Stack Web Projects
 - 📫 How to reach me kashaudhan94@gmail.com
 
