@@ -1,26 +1,27 @@
-# 👋 Hi, I’m Dharmendra
+# 👋 Hi, I’m Dharamendra
 
-## 🧠 AI Engineer | LLM Systems | Agents | Backend Architecture
+## 🧠 Senior Engineer | Distributed Architecture
 
 I build **production-grade AI systems**, not demos.
 
-Backend-focused engineer with 4+ years of experience, now specializing in:
+Senior AI Engineer with **5+ years of experience** designing and operating **efficient, scalable, predictable, and cost-effective systems**, now specializing in:
 
 * LLM-powered applications
 * AI Agents & tool-using systems
 * Retrieval-Augmented Generation (RAG)
-* AI copilots for real-world business workflows
+* Distributed AI platforms & microservices
 
 ---
 
 ## 🚀 What I Do
 
 * Build **end-to-end AI systems** (retrieval → reasoning → tool execution → response)
-* Design and implement **AI agents** with planning, tool usage, and memory
-* Develop **MCP (Model Context Protocol) servers & clients** for tool discovery and orchestration
-* Engineer **RAG pipelines** with advanced retrieval + reranking
-* Work with **LLMs in production** (latency, cost, observability, evaluation)
-* Architect **multi-tenant AI platforms** with strong isolation and scalability
+* Design and implement **AI agents** (planning, tool use, memory, multi-step reasoning)
+* Develop **MCP (Model Context Protocol) servers & clients** for tool orchestration
+* Engineer **high-quality RAG pipelines** (retrieval, reranking, compression)
+* Run **LLMs in production** with focus on latency, cost, and reliability
+* Architect **microservices-based AI platforms** for multi-tenant environments
+* Optimize systems for **predictability, observability, and cost efficiency**
 
 ---
 
@@ -29,14 +30,14 @@ Backend-focused engineer with 4+ years of experience, now specializing in:
 ### 🤖 LLM & Agent Systems
 
 * Prompt engineering, instruction tuning, evaluation
-* AI agent design (ReAct, tool calling, multi-step reasoning)
-* Function calling & tool integration
+* Agent design (ReAct, tool calling, multi-step reasoning)
+* Function calling & external tool integration
 * Memory systems (short-term, long-term, vector-based)
 
 ### 🔎 Retrieval & RAG
 
-* Chunking strategies & context compression
-* Embeddings & semantic search
+* Advanced chunking & context compression
+* Embeddings & semantic retrieval
 * ANN (HNSW, IVF)
 * Hybrid search (BM25 + vector)
 * Cross-encoder reranking
@@ -44,13 +45,13 @@ Backend-focused engineer with 4+ years of experience, now specializing in:
 ### ⚙️ Model Optimization
 
 * Quantization (QLoRA)
-* Efficient inference & batching
+* Efficient inference & batching strategies
 * Local LLM deployment (7B scale)
 
 ### 📊 AI System Design
 
-* Latency optimization & caching
-* Retrieval debugging
+* Latency optimization & caching layers
+* Retrieval debugging & failure analysis
 * Prompt tracing & observability
 * Evaluation pipelines (offline + online)
 
@@ -60,19 +61,22 @@ Backend-focused engineer with 4+ years of experience, now specializing in:
 
 * **Languages:** Python (primary), JavaScript, TypeScript
 * **Backend:** FastAPI, Node.js, Express
-* **Databases:** PostgreSQL, MongoDB, Redis, pgvector
+* **Architecture:** Microservices, event-driven systems
+* **Databases:** PostgreSQL, MongoDB, Redis
+* **Vector DB:** Qdrant
+* **Async & Jobs:** Celery, Redis queues
 * **AI Stack:** LLMs (LLaMA), embeddings, rerankers, agent frameworks
 * **Protocols:** MCP (Model Context Protocol), REST, Webhooks
-* **Infra:** Docker, BullMQ, distributed systems
+* **Infra:** Docker, Kubernetes (K8s), distributed systems
 
 ---
 
 ## 🔬 Current Focus
 
-* Building **AI applications**
+* Building **scalable, cost-efficient AI systems in production**
 * Designing **agentic workflows for enterprise automation**
 * Developing **MCP-based tool ecosystems**
-* Improving **RAG quality, evaluation, and observability**
+* Improving **RAG quality, evaluation, and observability at scale**
 
 ---
 
@@ -80,15 +84,15 @@ Backend-focused engineer with 4+ years of experience, now specializing in:
 
 * AI agent platforms
 * MCP-based ecosystems
-* Production RAG systems
-* AI-first SaaS products
+* Distributed AI systems
+* Production-grade RAG pipelines
 
 ---
 
 ## 📫 Reach Me
 
-* Email: [kashaudhan.in@gmail.com](mailto:kashaudhan.in@gmail.com)
+* Email: [kashaudhan94@gmail.com](mailto:kashaudhan94@gmail.com)
 
 ---
 
-⚡ I focus on **real AI systems under real constraints** — latency, cost, reliability, and scale.
+⚡ I focus on **building AI systems that are scalable, predictable, and cost-efficient in real-world production environments**.
